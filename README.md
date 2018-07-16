@@ -1,5 +1,9 @@
 # 自动刷github提交记录
 
+原作者：https://github.com/tywei90/git-auto-commit
+
+单纯的觉得好玩！
+
 **要是觉得这个项目还不错，别忘记star哦**
 
 ## 前言
